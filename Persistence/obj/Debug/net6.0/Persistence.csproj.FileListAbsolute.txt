@@ -1,0 +1,15 @@
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/bin/Debug/net6.0/Persistence.deps.json
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/bin/Debug/net6.0/Persistence.dll
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/bin/Debug/net6.0/Persistence.pdb
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/bin/Debug/net6.0/Domain.dll
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/bin/Debug/net6.0/Domain.pdb
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/obj/Debug/net6.0/Persistence.csproj.AssemblyReference.cache
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/obj/Debug/net6.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfoInputs.cache
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/obj/Debug/net6.0/Persistence.AssemblyInfo.cs
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/obj/Debug/net6.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/obj/Debug/net6.0/Persistence.csproj.CopyComplete
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/obj/Debug/net6.0/Persistence.dll
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/obj/Debug/net6.0/refint/Persistence.dll
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/obj/Debug/net6.0/Persistence.pdb
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Persistence/obj/Debug/net6.0/ref/Persistence.dll

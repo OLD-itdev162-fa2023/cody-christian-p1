@@ -1,0 +1,17 @@
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/bin/Debug/net6.0/Application.deps.json
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/bin/Debug/net6.0/Application.dll
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/bin/Debug/net6.0/Application.pdb
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/bin/Debug/net6.0/Domain.dll
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/bin/Debug/net6.0/Persistence.dll
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/bin/Debug/net6.0/Domain.pdb
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/bin/Debug/net6.0/Persistence.pdb
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/obj/Debug/net6.0/Application.csproj.CopyComplete
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/obj/Debug/net6.0/Application.dll
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/obj/Debug/net6.0/refint/Application.dll
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/obj/Debug/net6.0/Application.pdb
+/Users/codychristian/code/matc/itdev162/cody-christian-p1/Application/obj/Debug/net6.0/ref/Application.dll
