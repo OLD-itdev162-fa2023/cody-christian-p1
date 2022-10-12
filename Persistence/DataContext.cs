@@ -11,7 +11,7 @@ namespace Persistence
     {
         public String DbPath { get; }
         public DbSet<WeatherForecast> WeatherForecasts { get; set; }
-        public DbSet<PracticeJournal> JournalEntries { get; set; }
+        public DbSet<JournalEntry> JournalEntries { get; set; }
 
         public DataContext()
         {
