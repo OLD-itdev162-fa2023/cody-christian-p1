@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit{
-  title = 'client';
+  title = 'Practice Journal';
   weatherForecasts: any;
 
   constructor(private http: HttpClient) {
@@ -15,7 +15,7 @@ export class AppComponent implements OnInit{
   }
   ngOnInit(): void {
     this.http.get('http://localhost:5208/weatherforecast').subscribe(
-      respone => { this.weatherForecasts = respone; },
+      response => { this.weatherForecasts = response; },
       error => {console.log(error) }
       );
   }
